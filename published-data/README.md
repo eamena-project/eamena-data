@@ -1,22 +1,25 @@
 # Published data
 
+List of published datasets.
+
 ## Description
 
-|  **id** 	| **complete citation**	|  **citation downloads** 	|  **search URL** | 
+|  **id** 	| **APA**	|  **Search URL** 	|  **GeoJSON URL** | 
 |---	|---	|---	|---	|
-| Sistan: part 1	| Contributor, A. (2023), KEY1,  in *University of Oxford, University of Southampton EAMENA Database*. Retrieved from https:/database.eamena.org (Accessed: 2023-06-01)| [.ris](https://github.com/eamena-project/eamena-arches-dev/blob/main/data/bibref/citations/KEY1.ris), [.bib](https://github.com/eamena-project/eamena-arches-dev/blob/main/data/bibref/citations/KEY1.bib)  	| https://tinyurl.com/eamena-0001|  
-|  KEY2	|   ...	| ...  	|  ... 	|
+| Sistan: part 1. Heritage Places	| EAMENA database. (2023). Sistan: part 1. Heritage Places [Data set]. Zenodo. https://doi.org/10.5072/zenodo.5847 | ... | ... |
+| Sistan: part 1. Grid Squares | EAMENA database. (2023). Sistan: part 1. Grid Squares [Data set]. Zenodo. https://doi.org/10.5072/zenodo.5891 | ... | ... |
 
 
 Where:
 
-* **id**: unique identifier, which refers to a Search URL (see [List of citations](https://github.com/eamena-project/eamena-arches-dev/tree/main/data/bibref#list-of-citations)). For example: `eamena-dataset-1`, `eamena-dataset-2`, ...
+* **id**: a short reference that can be used to refer to a dataset of Heritage Places and Grid Squares
 
-* **complete citation**: APA-like citation
-	- Contributor, A. (2023), 'KEY',  in *University of Oxford, University of Southampton EAMENA Database*. Retrieved from www.https://database.eamena.org (Accessed: 2023-06-01)
+* **APA**: APA-like citation. For example:
+	- EAMENA database. (2023). Sistan: part 1. Heritage Places [Data set]. Zenodo. https://doi.org/10.5072/zenodo.5847
 
-* **citation downloads**: links to downloadable .bib and .ris formats. One by entry. These files are produced on-the-fly.
-* **search url**: the shortened URL (here a 'tinyurl' one). The complete URL is listed in [this dataframe](https://github.com/eamena-project/eamena-arches-dev/blob/main/data/bibref/urls/urls.tsv). Shortening URL will be a service hosted locally (see IT solutions [here](https://github.com/awesome-selfhosted/awesome-selfhosted#url-shorteners))
+* **Search URL**: the shortened URL (here a 'tinyurl' one). The complete URL is listed in [this dataframe](https://github.com/eamena-project/eamena-arches-dev/blob/main/data/bibref/urls/urls.tsv). Shortening URL will be a service hosted locally (see IT solutions [here](https://github.com/awesome-selfhosted/awesome-selfhosted#url-shorteners))
+
+* **GeoJSON URL**: the shortened URL (here a 'tinyurl' one). The complete URL is listed in [this dataframe](https://github.com/eamena-project/eamena-arches-dev/blob/main/data/bibref/urls/urls.tsv). Shortening URL will be a service hosted locally (see IT solutions [here](https://github.com/awesome-selfhosted/awesome-selfhosted#url-shorteners))
 
 ## Sistan: part 1.
 
