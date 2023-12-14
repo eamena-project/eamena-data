@@ -6,8 +6,8 @@ List of published datasets.
 
 |  **Badge** 	| **APA**	|  **Search URL** 	|  **GeoJSON URL** | 
 |---	|---	|---	|---	|
-| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10376132.svg)](https://doi.org/10.5281/zenodo.10376132)| EAMENA database. (2023). Sistan: part 1. Heritage Places [Data set]. Zenodo. https://doi.org/10.5072/zenodo.5847 | ... | ... |
-| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10376132.svg)](https://doi.org/10.5281/zenodo.10376132)| EAMENA database. (2023). Sistan: part 1. Grid Squares [Data set]. Zenodo. https://doi.org/10.5072/zenodo.5891 | ... | ... |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10376132.svg)](https://doi.org/10.5281/zenodo.10376132)| EAMENA database. (2023). Sistan: part 1. Heritage Places [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10375902 | ... | ... |
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10376132.svg)](https://doi.org/10.5281/zenodo.10376132)| EAMENA database. (2023). Sistan: part 1. Grid Squares [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10376132 | ... | ... |
 
 
 Where:
