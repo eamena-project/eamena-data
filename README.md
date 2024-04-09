@@ -21,8 +21,6 @@ Iconic images (i.e. visual documentation) of particular cases of Threats, Distur
 
 </center>
 
-
-
 see: [eamena-arches-dev/.../reference_data#values](https://github.com/eamena-project/eamena-arches-dev/tree/main/dbs/database.eamena/data/reference_data#values)
 
 
