@@ -14,14 +14,15 @@ Iconic images (i.e. visual documentation) of particular cases of Threats, Distur
 |----------|----------|
 | label    | a self-explanatory label explaining the case  |
 | image    | the name of the image file   |
-| uuid    | the EAMENA UUID of this case   |
-| uuid_parent    | the EAMENA UUID of the parent node   |
+| uuid    | the EAMENA UUID of this case (list: [concepts_readonly.tsv](https://github.com/eamena-project/eamena-arches-dev/blob/main/dbs/database.eamena/data/reference_data/concepts/concepts_readonly.tsv)) |
+| uuid_parent    | the EAMENA UUID of the parent node (list: [mds-template-readonly.tsv](https://github.com/eamena-project/eamena-arches-dev/blob/main/dbs/database.eamena/data/reference_data/rm/hp/mds/mds-template-readonly.tsv))  |
 
 <em>The list.tsv table</em>
 
 </center>
 
 
-see: [mds-template-readonly.tsv](https://github.com/eamena-project/eamena-arches-dev/blob/main/dbs/database.eamena/data/reference_data/rm/hp/mds/mds-template-readonly.tsv)
+
+see: [eamena-arches-dev/.../reference_data#values](https://github.com/eamena-project/eamena-arches-dev/tree/main/dbs/database.eamena/data/reference_data#values)
 
 
