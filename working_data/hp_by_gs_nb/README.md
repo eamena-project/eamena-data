@@ -18,6 +18,12 @@ sf::st_write(geoj, "C:/Rprojects/eamena-data/working_data/hp_by_gs_nb/year_2024/
 
 ```py
 gs_0_hp = gs_with_0_hp()
+```
+For local changes in the Json file
+```
+gs_0_hp = gs_with_0_hp(gkey="/Users/salahebrahimipour/Desktop/EAMENA/eamena-arches-dev/credentials/gsheet-407918-65ebbb9cb656.json")
+```
+```
 gs_0_hp.to_csv('C:/Rprojects/eamena-data/working_data/hp_by_gs_nb/year_2024/gs_with_0_hp.csv', index=False)
 ```
 
