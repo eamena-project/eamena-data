@@ -15,3 +15,9 @@ The [published_data](https://github.com/eamena-project/eamena-data/tree/main/pub
 ## Working Data
 
 The [working_data](https://github.com/eamena-project/eamena-data/tree/main/working_data/hp_by_gs_nb) folder contains data used for monthly and yearly reports.
+
+### Arcadia annual report
+
+* calculate GS with 0 HP
+
+![alt text](image.png)
