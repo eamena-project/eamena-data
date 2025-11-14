@@ -8,7 +8,7 @@ List of published datasets.
 |---	|---	|---	|---	|
 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10376132.svg)](https://doi.org/10.5281/zenodo.10376132)| EAMENA database. (2023). Sistan: part 1. Heritage Places [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10375902 | ... | ... |
 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10376132.svg)](https://doi.org/10.5281/zenodo.10376132)| EAMENA database. (2023). Sistan: part 1. Grid Squares [Data set]. Zenodo. https://doi.org/10.5281/zenodo.10376132 | ... | ... |
-
+| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15554618.svg)](https://doi.org/10.5281/zenodo.15554618) | EAMENA database. (2025). Monastic Heritage Places in Wadi Naqqat, Eastern Desert, Egypt [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15554618 | ... | ... |
 
 Where:
 
